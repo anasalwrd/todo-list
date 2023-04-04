@@ -1,0 +1,2 @@
+it is c++ code as well as 
+javascript code
