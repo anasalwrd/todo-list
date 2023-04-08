@@ -1,3 +1,4 @@
 this the backend file where you can find the 
 the functions of our project
 it is the configuration for the new technology 
+hey man is that what the hell have you been looking for 
