@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+111111111111
+=======
 this the backend file where you can find the 
 the functions of our project
 it is the configuration for the new technology 
@@ -8,3 +11,4 @@ well
 we
 do not 
 like you '=
+>>>>>>> bug
